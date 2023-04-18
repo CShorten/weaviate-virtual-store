@@ -1,2 +1,4 @@
-# weaviate-virtual-store
-eCommerce Demo
+Weaviate Virtual Store!
+
+Run with:
+`uvicorn main:app --reload`
